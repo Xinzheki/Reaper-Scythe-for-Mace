@@ -1,0 +1,40 @@
+=======================================================================
+MINECRAFT RESOURCE PACK LICENSE AGREEMENT
+=======================================================================
+Pack Name: [Reapers Scythe]
+Author: Xinzhou
+Date: 2026
+
+Copyright (c) 2026 Xinzhou. All Rights Reserved.
+
+By downloading, installing, or using this resource pack, you agree to 
+the following terms and conditions:
+
+1. PERSONAL USE
+You are granted a non-exclusive license to download and use this 
+resource pack for your personal enjoyment in Minecraft.
+
+2. REDISTRIBUTION & RE-UPLOADING
+- You MAY NOT re-upload this resource pack, in whole or in part, to 
+  any other website, file-hosting service, or community platform.
+- You MAY NOT claim ownership of any textures, models, or assets 
+  contained within this pack.
+- If you share this pack with friends, you must redirect them to the 
+  official download page provided by Xinzhou.
+
+3. REMIXES & MODIFICATIONS
+- You MAY modify this pack for strictly personal, private use.
+- You MAY NOT publicly distribute any "edited," "remixed," or 
+  "optimized" versions of this resource pack without explicit 
+  written permission from Xinzhou.
+
+4. COMMERCIAL USE & CONTENT CREATION
+- You MAY use this resource pack while recording YouTube videos, 
+  streaming on Twitch, or taking screenshots. Credit to "Xinzhou" 
+  and a link to the official download page is highly appreciated.
+- You MAY NOT sell this resource pack, or monetize any individual 
+  assets inside it, under any circumstances.
+
+=======================================================================
+For permissions or inquiries, contact the author via their official profile.
+=======================================================================

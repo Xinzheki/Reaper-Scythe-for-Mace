@@ -1,0 +1,96 @@
+{
+  "entity.player.attack.crit": {
+    "replace": true,
+    "subtitle": "subtitles.scythe.hit",
+    "sounds": [
+      {
+        "name": "scythe:pgr/hit1",
+        "volume": 1.0
+      },
+      {
+        "name": "scythe:pgr/hit2",
+        "volume": 1.0
+      },
+      {
+        "name": "scythe:pgr/hit3",
+        "volume": 1.0
+      },
+      {
+        "name": "scythe:pgr/finisher",
+        "volume": 1.0
+      }
+    ]
+  },
+  "entity.player.attack.strong": {
+    "replace": true,
+    "subtitle": "subtitles.scythe.hit",
+    "sounds": [
+      {
+        "name": "scythe:pgr/hit1",
+        "volume": 0.75
+      },
+      {
+        "name": "scythe:pgr/hit2",
+        "volume": 0.75
+      },
+      {
+        "name": "scythe:pgr/hit3",
+        "volume": 0.75
+      }
+    ]
+  },
+  "entity.player.attack.knockback": {
+    "replace": true,
+    "subtitle": "subtitles.scythe.hit",
+    "sounds": [
+      {
+        "name": "scythe:pgr/hit1",
+        "volume": 1.0
+      },
+      {
+        "name": "scythe:pgr/hit2",
+        "volume": 1.0
+      },
+      {
+        "name": "scythe:pgr/hit3",
+        "volume": 1.0
+      }
+    ]
+  },
+  "item.mace.smash_air": {
+    "replace": true,
+    "subtitle": "subtitles.scythe.smash",
+    "sounds": [
+      {
+        "name": "scythe:smash/boom1"
+      },
+      {
+        "name": "scythe:smash/boom2"
+      }
+    ]
+  },
+  "item.mace.smash_ground": {
+    "replace": true,
+    "subtitle": "subtitles.scythe.smash",
+    "sounds": [
+      {
+        "name": "scythe:smash/boom1"
+      },
+      {
+        "name": "scythe:smash/boom2"
+      }
+    ]
+  },
+  "item.mace.heavy_smash_ground": {
+    "replace": true,
+    "subtitle": "subtitles.scythe.smash",
+    "sounds": [
+      {
+        "name": "scythe:smash/boom1"
+      },
+      {
+        "name": "scythe:smash/boom2"
+      }
+    ]
+  }
+}
